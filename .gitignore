@@ -2,9 +2,7 @@
 venv
 
 .env
-
-amazon_reviews.json
-amazon_reviews2.json
-amazon_reviews.csv
+*.json
+*.csv
 
 reviews_spider.py
